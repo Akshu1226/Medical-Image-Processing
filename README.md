@@ -13,5 +13,14 @@ The data contains:
 2.Tagged tumor masks showing the tumor area. 
 
 3.Various types of tumours, making classification-based segmentation possible.
-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+Dataset:-https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+## Deep Learning Models Used
+U-Net – A fully convolutional encoder-decoder network with skip connections that helps preserve fine tumor details, making it highly effective for medical image segmentation.
+
+PSPNet – Uses a pyramid pooling module to capture multi-scale tumor structures, improving segmentation accuracy for both small and large tumors.
+
+VGG-19 – A deep convolutional neural network (CNN) with 19 layers, known for its strong feature extraction capabilities and effectiveness in tumor classification.
+
 
