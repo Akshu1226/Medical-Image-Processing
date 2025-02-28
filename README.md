@@ -49,6 +49,7 @@ VGG-19 – A deep convolutional neural network (CNN) with 19 layers, known for i
 6️⃣ Validation and Testing – The trained models are tested on unseen MRI scans, and their performance is evaluated using Dice Coefficient, IoU, Precision, and Recall.
 
 ## Results and Visualizations:
+
  Segmentation Output – The models generate segmented tumor regions on MRI scans, highlighting the affected areas.
 
  Performance Comparison – U-Net achieves the highest accuracy, while PSPNet captures multi-scale tumor regions, and VGG-19 provides strong feature extraction.
@@ -58,5 +59,7 @@ VGG-19 – A deep convolutional neural network (CNN) with 19 layers, known for i
  Graphical Analysis – Loss curves, accuracy plots, and confusion matrices visualize model performance across training and testing phases.
 
  Overlay Visualization – Predicted tumor masks are overlaid on the original MRI scans to visually assess segmentation quality.
+ ![image](https://github.com/user-attachments/assets/eb5518de-edde-4f8c-b860-46fafee03042)
+
 
 
