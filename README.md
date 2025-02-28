@@ -1,1 +1,2 @@
-# Medical-Image-Processing
+# MEDICAL IMAGE PROCESSING
+## INTRODUCTION
