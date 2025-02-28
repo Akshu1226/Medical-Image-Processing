@@ -34,5 +34,17 @@ VGG-19 – A deep convolutional neural network (CNN) with 19 layers, known for i
 
 5️.Recall – Measures how many actual tumor pixels were correctly identified, reducing false negatives.
 
+## Training Process
+1️⃣ Dataset Splitting – The dataset is divided into training and testing sets to ensure proper model evaluation.
+
+2️⃣ Preprocessing – Techniques like normalization, data augmentation, noise reduction, and contrast enhancement are applied to improve model performance.
+
+3️⃣ Hyperparameter Tuning – Parameters such as learning rate, batch size, and dropout rate are optimized for better training efficiency.
+
+4️⃣ Model Training – The deep learning models are trained using MRI images with labeled tumor regions to learn accurate segmentation patterns.
+
+5️⃣ Loss Function Optimization – A loss function like Dice Loss or Cross-Entropy Loss is used to minimize segmentation errors.
+
+6️⃣ Validation and Testing – The trained models are tested on unseen MRI scans, and their performance is evaluated using Dice Coefficient, IoU, Precision, and Recall.
 
 
