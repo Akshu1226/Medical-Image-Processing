@@ -23,4 +23,16 @@ PSPNet – Uses a pyramid pooling module to capture multi-scale tumor structures
 
 VGG-19 – A deep convolutional neural network (CNN) with 19 layers, known for its strong feature extraction capabilities and effectiveness in tumor classification.
 
+## Performance Evaluation
+1️.Dice Coefficient – Measures the overlap between predicted and actual tumor regions, with higher values indicating better segmentation accuracy.
+
+2️.Intersection over Union (IoU) – Calculates the ratio of correctly predicted tumor pixels to the total tumor pixels in both ground truth and prediction.
+
+3️.Accuracy – Represents the percentage of correctly classified pixels in the MRI scans, showing the overall segmentation performance.
+
+4️.Precision – Indicates how many of the predicted tumor pixels are actually tumors, reducing false positives.
+
+5️.Recall – Measures how many actual tumor pixels were correctly identified, reducing false negatives.
+
+
 
