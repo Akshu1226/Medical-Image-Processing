@@ -13,3 +13,4 @@ The data contains:
 2.Tagged tumor masks showing the tumor area. 
 
 3.Various types of tumours, making classification-based segmentation possible.
+
