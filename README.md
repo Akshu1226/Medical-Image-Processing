@@ -7,6 +7,7 @@ The data set used in this project is the Brain Tumor MRI Dataset, downloaded fro
 
 2️⃣ Dataset Composition
 The data contains:
-MRI scans of the brain tumor in various stages. 
-Tagged tumor masks showing the tumor area. 
-Various types of tumours, making classification-based segmentation possible.
+
+-MRI scans of the brain tumor in various stages. 
+-Tagged tumor masks showing the tumor area. 
+-Various types of tumours, making classification-based segmentation possible.
